@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "treasure-hunt-game-3ee82",
+  "private_key_id": "7a0b45f45af6f952bb2dfb6bce2e173b92a66598",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzGy1o7ccKtaSL\naon4BQeBWGMqPW7cICDK0L8EGc0feDUotjDKd34iBs6xeNS6saQvRelauNSh8Yzg\nW4Qs1g7Atq2nsaCNGh7u5WefEZQTSl6fyBIJ9dUhntKeLZjNVho270FZC4j+kqek\nmzS0+YoiG5ibXxA/ggrYA+NklzbiidGOBtVJij5uJv5S4wI9qf6FtubpZ+lZMrc2\n1ehFMg1lmvWQ+xjuyF3W8ieXDREWu7RW2Tj9waK0dSCuOfdVvRO0xX3Q7d3eIed6\nwVSzuSZrAWO2UV82tDKo7vEUnotBnlgqAxYLij9/LbZGTgYbNGlKgTZCGj6xlIwe\nD6QD5MoPAgMBAAECggEAGq7EU5sE6awI8Po0xr3dEeB8mYjgcKvapsx1gKNlYzhR\n1xhZaXhm0qPn/BmPu6aGWsKUEr9xchTd03je1p0nQn+UnGSCkjLfg+CqUNDaGguc\n0DoKsfAtSd5y6zzIxGJ88k0vk5f7100663Nx5To94XnyAMenUIbLncXqhQxgEVyN\nkw4+agn9P7xo0y2j5E4Nvfxa1nJleyI6kygz+oxvM1IFsIVEsQ+2LbPXXNhIkDR0\noVtkd+tUp5jtA5zfB3vlBaw2ZkMt2a8UfogwmOdCYYNfineNBJBgU4h3sOxlv4Ch\n58JsNSEYlk+Gh8aOhz/qLmIg9vuHDvWuz5wQLxZwDQKBgQDyDT7iyDo2qB+/TytA\nEeslx2jPZwv6xtlj9brS/Z6xG4L41LFjp1UfRwBBeB4s6l9brMUeKeupMCMmFsSv\nLgo+tXrinoBOfVLJc2ts9usuUC7I2hbbUey5dZIET93vRsdQl79HWPR3tImBYynL\nypW52EiECtDvdbE5eijqi7RqMwKBgQC9bVtRdC3K3xcvtnlrGGjbSSNRgAusj9As\n7GuxerGqF0X2xPEQw/jUXCjheZk01vl2J17m+BPJYO8gS43Omjrf9/TuHmTMso1T\njdcCd2q0m2ma516lnBYzwlIGSJkNQNnMV8xtmmpQn6aOtZ8CMiP2xSkgGfxQJufT\nWNl5w4d8tQKBgQCCBlWCs3Z6B+RN+3RLTZTYzX7i8wL/arQ6uzTpxG3ry9CWZIMJ\n+kiCrbxYbvMew6QH9g5JftFmKEKpYk+znvLH7usdM3HPOAkxyDur5BQ/47jOEkF2\n/VJB6gNPJ6wbrhTBmVKaPBHO//9hrugz3haCJ8oEjF7iU4GpU5MJM5Tt+wKBgCqr\ntrVrkWEwzf1Ogp1wWzaCjDUwvfB6WO+1tjC9rcXeBkGnbZJUQvo7ZG4eQTfY8Ur/\nZW5sFbD4aAWDX4dZ0MdhCMiXCifeVN2shvGkSuIyXCCr2/M8bPft3yJROkD1Cdrx\nMDjEXwyYWiGtogsRlm5hTXlQwTig+vnt+tdmB2A9AoGAT6QTn9spk6DtGD95zbsX\nAgWeYxmySj64GeLFDaAVyYR/B0x6CSjGeva00crMt1u2q4KYv+nycVsVwsMIkqyC\nn/1CON3E3HLsstZn+yd5F/XoG6C3tPJMWThFy8D11GHsw/t5BcEQqZc4Sw6/jY86\nERcCcBEqeBcNhbEMJ09PWFo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-j9q8j@treasure-hunt-game-3ee82.iam.gserviceaccount.com",
+  "client_id": "115170943014614925900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-j9q8j%40treasure-hunt-game-3ee82.iam.gserviceaccount.com"
+}
